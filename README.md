@@ -1,5 +1,12 @@
 # AngularDirectives
 Angular Directive is basically a class with a @Directive decorator. 
 
-Create new angular project by doing this
-ng new angular-directive
+### Installation
+
+Install the new angular project by doing following
+
+```sh
+$ ng new angular-directive
+$ cd angular-directive
+$ npm start
+```
