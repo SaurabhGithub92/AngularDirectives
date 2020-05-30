@@ -1,4 +1,4 @@
-# AngularDirectives
+# Angular Directives
 Angular Directive is basically a class with a @Directive decorator. 
 
 ### Installation
